@@ -19,7 +19,7 @@ A fan translation of **Soukou Kihei Votoms** (装甲騎兵ボトムズ), the Jap
 |---|---|
 | ![Mission select](screenshots/mission-select.webp) | ![AT Garage](screenshots/at-garage.webp) |
 | ![AT spec sheet](screenshots/at-spec-sheet.webp) | ![Tutorial](screenshots/tutorial.webp) |
-| ![Gallery menu](screenshots/gallery.webp) | |
+| ![Gallery menu](screenshots/gallery.webp) | ![In-mission dialogue](screenshots/mission-dialogue.webp) |
 
 ---
 
