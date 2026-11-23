@@ -13,6 +13,14 @@ A fan translation of **Soukou Kihei Votoms** (装甲騎兵ボトムズ), the Jap
 
 > This patch does **not** include the game. You need your own copy of the Japanese disc, ripped as an ISO.
 
+## Screenshots
+
+| | |
+|---|---|
+| ![Mission select](screenshots/mission-select.webp) | ![AT Garage](screenshots/at-garage.webp) |
+| ![AT spec sheet](screenshots/at-spec-sheet.webp) | ![Tutorial](screenshots/tutorial.webp) |
+| ![Gallery menu](screenshots/gallery.webp) | |
+
 ---
 
 ## How to patch the game (Windows, about 5 minutes)

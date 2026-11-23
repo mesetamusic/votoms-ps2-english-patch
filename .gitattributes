@@ -1,3 +1,5 @@
 * text=auto eol=lf
 *.xdelta binary
 *.ps1 text eol=crlf
+*.webp binary
+*.png binary
