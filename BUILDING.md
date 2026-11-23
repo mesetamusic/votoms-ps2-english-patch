@@ -18,7 +18,7 @@ python tools/insert.py check build/dip/root build/disc/SLPS_258.27
 python tools/insert.py build build/dip/root build/disc/SLPS_258.27 "Soukou Kihei Votoms (Japan).iso" "Votoms (English).iso"
 
 # 4. make the release patch
-python tools/make_xdelta.py make "Soukou Kihei Votoms (Japan).iso" "Votoms (English).iso" patch/Votoms-English-v1.0.xdelta
+python tools/make_xdelta.py make "Soukou Kihei Votoms (Japan).iso" "Votoms (English).iso" patch/Votoms-English-v1.1.xdelta
 ```
 
 `python tools/make_xdelta.py hash <iso>` prints CRC32 / MD5 / SHA-1, and `python tools/make_xdelta.py apply <original> <patch> <out>` applies a patch without any other tool.
@@ -34,6 +34,10 @@ python tools/make_xdelta.py make "Soukou Kihei Votoms (Japan).iso" "Votoms (Engl
 | `long~~short` | fallbacks: the first one that fits its slot is used |
 | `=` | leave the Japanese string untouched |
 | `@c02 … @c07`, `%s`, `%d`, `#E` … | game colour codes, printf arguments and button glyphs: keep them |
+
+Very short HUD words that the extractor skipped (2–4 characters, e.g. 決定 → OK) are in `work/short_strings.tsv` as `jp <TAB> english` (with `~~` fallbacks). They are replaced in place in `root/hud/*` and `root/static.mpc`.
+
+`menu/msg.tdp` (prompt boxes) is special: each record is `message NUL choice1 NUL choice2 NUL`, and the game reads the choices straight after the message, so `insert.py` repacks each record in place instead of zero-padding.
 
 `jp-check` is the first characters of the Japanese string (from `work/sheet_frozen.tsv`) and guards against editing the wrong line.
 

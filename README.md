@@ -27,7 +27,7 @@ A fan translation of **Soukou Kihei Votoms** (装甲騎兵ボトムズ), the Jap
 
 ### 1. Get the files
 
-- **The patch:** download `Votoms-English-v1.0.xdelta` from the [Releases page](../../releases) (it's also in the [`patch`](patch) folder).
+- **The patch:** download `Votoms-English-v1.1.xdelta` from the [Releases page](../../releases) (it's also in the [`patch`](patch) folder).
 - **Delta Patcher**, a free patching tool: download it from <https://github.com/marco-calautti/DeltaPatcher/releases> and unzip it anywhere.
 - **Your game ISO:** `Soukou Kihei Votoms (Japan).iso`. If it's inside a `.7z` or `.zip`, extract it first.
 
@@ -54,7 +54,7 @@ If it doesn't match, don't patch it. See [Troubleshooting](#troubleshooting).
 
 1. Open **DeltaPatcher.exe**.
 2. **Original file:** click the folder icon and pick your Japanese ISO.
-3. **XDelta patch:** pick `Votoms-English-v1.0.xdelta`.
+3. **XDelta patch:** pick `Votoms-English-v1.1.xdelta`.
 4. Click **Apply patch**. It takes a minute or two.
 
 Delta Patcher changes the ISO you selected **in place**. Make a copy first if you want to keep the Japanese version (or tick *Backup original file* in the options ⚙).
@@ -72,7 +72,7 @@ Open the patched ISO in **PCSX2** like any other game (*System → Boot ISO*). T
 Install `xdelta3` (Homebrew: `brew install xdelta`, Debian/Ubuntu: `sudo apt install xdelta3`), then run:
 
 ```sh
-xdelta3 -d -s "Soukou Kihei Votoms (Japan).iso" Votoms-English-v1.0.xdelta "Votoms (English).iso"
+xdelta3 -d -s "Soukou Kihei Votoms (Japan).iso" Votoms-English-v1.1.xdelta "Votoms (English).iso"
 ```
 
 ---
@@ -82,11 +82,19 @@ xdelta3 -d -s "Soukou Kihei Votoms (Japan).iso" Votoms-English-v1.0.xdelta "Voto
 - **The patch fails, or the game crashes / shows garbage after patching:** your ISO is a different dump or was modified. The patch needs an unmodified Japanese ISO with the MD5 above.
 - **My game is `.bin` / `.cue` or `.chd`:** convert it to a plain `.iso` first (e.g. with `chdman extractdvd` for CHD files), then check the MD5.
 - **I already patched it once:** patching an already-patched ISO fails. Start again from a clean Japanese ISO.
-- **Patched ISO MD5** (to confirm it worked): `2424EA8FB9DF9D94FE344ABA544D366C`.
+- **Patched ISO MD5** (to confirm it worked): `09404A90F5F52F3BD409187C38E8B5F3`.
 
 Found a typo, an untranslated line, or text running off the screen? Please [open an issue](../../issues) with a screenshot and where it happened.
 
 ---
+
+## Changelog
+
+- **v1.1**:
+  - Fixed Yes/No choices being invisible on prompts (controls tutorial, memory card messages).
+  - Translated the leftover "進む" (Next) button and the battling and mission results screens.
+  - Translated the in-mission options and some enemy and weapon names.
+- **v1.0**: First release.
 
 ## For translators and developers
 

@@ -140,6 +140,33 @@ def apply_heur(d, items):
     return bytes(d)
 
 
+TDP_CHOICES = {'はい'.encode('cp932'): b'Yes', 'いいえ'.encode('cp932'): b'No'}
+
+
+def apply_tdp(d, items):
+    """menu/msg.tdp: a table of (id, offset) records; each record is
+    message NUL choice1 NUL choice2 NUL. The game reads the choices right after
+    the message's terminator, so each record is repacked in place (record
+    offsets never move) instead of zero-padding the shorter English message."""
+    d = bytearray(d)
+    base = struct.unpack_from('<I', d, 4)[0]
+    starts = sorted({base + struct.unpack_from('<I', d, i + 4)[0]
+                     for i in range(0x10, base - 7, 4)
+                     if 0x2710 <= struct.unpack_from('<I', d, i)[0] < 0x2800})
+    new = {o['off']: b for o, b in items}
+    for k, st in enumerate(starts):
+        end = starts[k + 1] if k + 1 < len(starts) else len(d)
+        toks = bytes(d[st:end]).split(b'\0')[:3]
+        out, at = [], st
+        for t in toks:
+            out.append(new.get(at, TDP_CHOICES.get(t, t)))
+            at += len(t) + 1
+        rec = b'\0'.join(out) + b'\0'
+        assert len(rec) <= end - st, f'msg.tdp record at {st:#x} too long'
+        d[st:end] = rec + b'\0' * (end - st - len(rec))
+    return bytes(d)
+
+
 def apply_pool(d, items, problems, name):
     """Rewrite pointer-referenced strings of a DUMY/POF0 file.
 
@@ -259,10 +286,62 @@ def build_files(dip_root, elf, edits, problems, report):
                 continue
             d, moved, n = r
             report.append(f'{f}: {n} pointer strings rewritten, {moved} relocated')
-        if heur:
+        if heur and f.endswith('.tdp'):
+            d = apply_tdp(d, heur)
+        elif heur:
             d = apply_heur(d, heur)
         outs[f] = d
     return outs
+
+
+SHORT_FILES = ('root/hud/', 'root/static.mpc')
+
+
+def apply_short(dip_root, outs, report):
+    """Short HUD words the extractor skipped (work/short_strings.tsv: jp <TAB> english).
+    Only whole NUL-delimited strings (optionally after a '#B ' button code) are
+    replaced, in place, using at most the original slot (up to the next 4-byte
+    boundary and never past the next non-zero byte); strings already covered
+    by the main sheet are left to it."""
+    table = []
+    for line in open(os.path.join(WORK, 'short_strings.tsv'), encoding='utf-8'):
+        if line.strip():
+            jp, en = line.rstrip('\n').split('\t')
+            table.append((jp.encode('cp932'), [a.encode('ascii') for a in en.split('~~')]))
+    table.sort(key=lambda r: -len(r[0]))
+    occ = json.load(open(os.path.join(WORK, 'strings_frozen.json'), encoding='utf-8'))
+    covered = {}
+    for o in occ:
+        covered.setdefault(o['file'], []).append((o['off'], o['off'] + o['len']))
+    base = os.path.dirname(dip_root)
+    n = 0
+    for dp, _, fs in os.walk(dip_root):
+        for f in fs:
+            rel = os.path.relpath(os.path.join(dp, f), base).replace(os.sep, '/')
+            if not rel.startswith(SHORT_FILES):
+                continue
+            d = bytearray(outs.get(rel) or open(os.path.join(dp, f), 'rb').read())
+            orig = open(os.path.join(dp, f), 'rb').read()
+            hit = False
+            for jp, alts in table:
+                i = orig.find(jp)
+                while i >= 0:
+                    e = i + len(jp)
+                    ok = (e < len(orig) and orig[e] == 0 and (orig[i - 1] == 0 or orig[i - 3:i] == b'#B ')
+                          and not any(a <= i < b + 1 for a, b in covered.get(rel, [])) and d[i:e] == jp)
+                    if ok:
+                        room_end = (e + 1 + 3) & ~3
+                        k = e
+                        while k < min(room_end, len(orig)) and orig[k] == 0:
+                            k += 1
+                        room = k - i - 1
+                        en = next((a for a in alts if len(a) <= room), None)
+                        if en is not None:
+                            d[i:k] = en + b'\0' * (k - i - len(en)); n += 1; hit = True
+                    i = orig.find(jp, i + 1)
+            if hit:
+                outs[rel] = bytes(d)
+    report.append(f'{n} short HUD strings replaced')
 
 
 def write_iso(outs, iso_in, iso_out):
@@ -290,6 +369,7 @@ def main():
     problems, report = [], []
     edits = plan(dip_root, elf, problems, report)
     outs = build_files(dip_root, elf, edits, problems, report)
+    apply_short(dip_root, outs, report)
     # graphics edits made by texpatch.py (work/texout mirrors the DIP layout)
     tex_root = os.path.join(WORK, 'texout')
     ntex = 0
