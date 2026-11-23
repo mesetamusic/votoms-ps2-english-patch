@@ -1,0 +1,120 @@
+0	怕衷	=
+1	ダミ	=
+2	バト	=
+3	メニ	=
+4	ミッ	=
+5	ミッ	=
+6	ミッ	=
+7	ミッ	=
+8	ミッ	=
+9	ミッ	=
+10	ミッ	=
+11	ミッ	=
+12	ミッ	=
+13	ミッ	=
+14	ミッ	=
+15	ミッ	=
+16	装甲	Armored Trooper VOTOMS
+17	キリ	Chirico Total Dmg %03d.%d%%
+18	ミッ	Mission Bonus %04d
+19	クリ	Clear Time Bonus %04d
+20	被ダ	Damage Taken Bonus %04d
+21	撃破	Kill Bonus %04d
+22	合計	Total Pts %d
+23	獲得	Earned %d Gildan
+24	セン	Head for Central Tower
+25	＜　	< Distance: Near >
+26	上下	Invert Camera Y
+27	左右	Invert Camera X
+28	ロッ	Lock-On Range
+29	ロッ	Lock-On Pattern
+30	ミッ	Mission Disk Test
+31	中断	Quit Mission
+32	ミッ	Complete the mission
+33	株式	NAMCO BANDAI Games Inc.
+34	再戦	Rematch?
+35	タイ	Time Bonus
+36	オッ	Odds
+37	ギル	Gildan Won
+38	ギル	Gildan
+39	獲得	Mission Disks Won
+40	ベー	Base Pay
+41	ギル	Gildan Lost
+42	再戦	Rematch
+43	ＡＴ	Change AT
+44	終了	Quit
+45	お金	Not enough money
+46	スキ	Skip
+47	カメ	Camera Control
+48	オー	Auto
+49	マニ	Manual
+50	キャ	Cancel
+51	１Ｐ	1P Pilot
+52	ポー	Pause menu.
+53	バイ	Vibration
+54	カメ	Camera Move
+55	ズー	Zoom
+56	カメ	Set camera and other control options.
+57	バト	Quit the battling and return to AT Select.
+58	カメ	Camera and enemy lock-on are controlled manually.
+59	カメ	Vertical camera control is normal.
+60	カメ	Vertical camera control inverted.
+61	設定	Apply settings.
+62	ゲー	Back to Game
+63	ミッ	Check Mission Disks
+64	オプ	Options
+65	リタ	Retire
+66	ミッ	Quit the mission.|Are you sure?
+67	クリ	Objective
+68	ラン	Rank
+69	射撃	Fire Button
+70	照準	Auto Aim Return
+71	ノー	Normal
+72	リバ	Inverted
+73	バト	Quit the battling and return to the menu.|Are you sure?
+74	初期	Restart the match from the start.|Are you sure?
+75	チュ	Tutorial Help
+76	チュ	End the tutorial.|Are you sure?
+77	ミッ	Quit the mission and return to the title screen.|Are you sure?
+78	ミッ	Quit the mission and return to the title.
+79	ゲー	Resume the game.
+80	装備	Check your equipped Mission Disks.
+81	ミッ	Quit the mission.
+82	右腕	Right arm: Heavy Machine Gun.
+83	カメ	Camera and enemy lock-on are automatic.
+84	照準	Turns auto aim return ON.
+85	照準	Turns auto aim return OFF.
+86	バイ	Turns vibration ON
+87	バイ	Turns vibration OFF
+88	現在	Check what you should do now.
+89	チュ	End the tutorial.
+90	ミッ	Quit the mission and return to the briefing.|Are you sure?
+91	バト	Quit the battling and return to AT Select.|Are you sure?
+92	２Ｐ	2P Pilot
+93	初期	Restart match from the start.
+94	梶[	{keep2}Set camera and other control options.
+95	バイ	Turns vibration ON.
+96	バイ	Turns vibration OFF.
+97	ミッ	Mission Bonus
+98	クリ	Clear Time
+99	クリ	Clear Time Bonus
+100	キリ	Chirico Total Dmg
+101	搭乗	AT Total Damage
+102	被ダ	Damage Taken Bonus
+103	撃破	Kill Bonus
+104	画面	When the roller icon is shown at the lower left of the screen, you move by Roller Dash. Press #B to turn the roller icon ON/OFF.
+105	画面	When the roller icon is not shown at the lower left, you move on foot. Try pressing #B to turn the icon OFF.
+106	左ス	Press in the left stick to pick up a weapon on the ground. The weapon you were holding will be dropped in its place.
+107	射撃	Shooting or melee attacks will sometimes score a Critical that damages the enemy AT's pilot.||Criticals happen more often when you attack on foot, and you can board an AT whose pilot's HP has hit 0.
+108	お宝	Treasure is hidden inside containers and the like. You can't collect it while riding an AT. Breakable containers are a bit darker, so smash them when you find them!
+109	左下	When the Mission Disk (MD) gauge at the lower left is full, hold L2 and approach an enemy. When the double-lock icon appears, press #D or #B to activate a Combat Program.
+110	Ｌ２	Hold L2 and press #E to activate an Action Program. These reproduce special AT maneuvers. Try them in all sorts of situations.
+111	敵の	Press #C from behind an enemy to knock them out instantly. Use it a lot and something good might happen.
+112	搭乗	If your AT is destroyed, press SELECT to bail out. If you fail, it's game over. (In this mission, you bail out automatically.)
+113	敵の	Press L1 or R1 near an enemy to lock on. While locked on, press L1 or R1 again to cycle through targets.||Note: you can't lock on to enemy soldiers while riding an AT.
+114	Ｌ１	Press L1 and R1 together to release the lock at any time. When you want to focus on moving, release it and move freely!
+115	※操	*Controls shown are for controller Type A.
+116	オブ	=
+117	フリ	Free
+118	なし	None
+119	この	Your mission completion rate is too low to attempt this mission. Clear other missions to raise your completion rate.

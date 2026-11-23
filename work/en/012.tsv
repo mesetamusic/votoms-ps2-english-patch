@@ -1,0 +1,85 @@
+2597	クリ	Clear Time %02d:%02d:%02d
+2598	搭乗	Total AT Damage %03d.%d%%
+2599	Uゲ	{keep1}Resume
+2600	Sオ	{keep1}Options
+2601	Rリ	{keep1}Retire
+2602	Bミ	{keep1}Quit the mission and return to the briefing screen?|Are you sure?
+2603	S0	{keep2}Win Cond.
+2604	0射	{keep1}Fire Btn
+2605	0照	{keep1}Aim Auto-Return
+2606	1ノ	{keep1}Normal
+2607	25	{keep2}Quit Battling and return to the AT select screen?|Are you sure?
+2608	Cヤ	{keep2}2P Pilot
+2609	A0	{keep3}Return to the game.~~{keep3}Back to the game.
+2610	N右	{keep1}Equips a "Heavy Machine Gun" on the right arm.~~{keep1}Puts a Heavy MG on the right arm.
+2611	Zカ	{keep1}Camera control and lock-on are done automatically.
+2612	2照	{keep1}Turns aim auto-return ON.
+2613	4バ	{keep1}Turns vibration ON.
+2614	bＴ	{keep2}Approach a boardable AT and a yellow icon appears. Press SELECT then to board that AT.||To get out, press SELECT as well.
+2615	Y@	{keep1}@c03Stage:
+2616	D@	{keep1}@c03Attempts:
+2617	0@	{keep1}@c03Clears:
+2618	|M	|Checking the "PlayStation 2" memory card (8MB) in MEMORY CARD slot 1.|Do not remove or insert the memory card.
+2619	ME	No "PlayStation 2" memory card (8MB) in MEMORY CARD slot 1.|Saving this game needs at least %sKB of free space.|Start the game anyway?
+2620	ME	The "PlayStation 2" memory card (8MB) in MEMORY CARD slot 1 lacks free space.|Saving this game needs at least %sKB free.|Start the game anyway?
+2621	|M	|Loading this game's data from the "PlayStation 2" memory card (8MB) in MEMORY CARD slot 1.|Do not remove or insert the memory card.
+2622	|M	|The "PlayStation 2" memory card (8MB) in MEMORY CARD slot 1 is not formatted.|Format it?
+2623	|フ	|Formatting.|Do not remove the "PlayStation 2" memory card (8MB) in MEMORY CARD slot 1.
+2624	|M	|Failed to format the "PlayStation 2" memory card (8MB) in MEMORY CARD slot 1.
+2625	|セ	|Saving.|Do not remove the "PlayStation 2" memory card (8MB) in MEMORY CARD slot 1.
+2626	|M	|Saved this game's data to the "PlayStation 2" memory card (8MB) in MEMORY CARD slot 1.
+2627	|M	|Failed to save to the "PlayStation 2" memory card (8MB) in MEMORY CARD slot 1.
+2628	|M	|The "PlayStation 2" memory card (8MB) in MEMORY CARD slot 1 lacks free space.|Saving this game needs at least %sKB free.
+2629	|M	|No "PlayStation 2" memory card (8MB) in MEMORY CARD slot 1.
+2630	||	||Cancel saving?
+2631	|ロ	|Loading.|Do not remove the "PlayStation 2" memory card (8MB) in MEMORY CARD slot 1.
+2632	|M	|Failed to load from the "PlayStation 2" memory card (8MB) in MEMORY CARD slot 1.
+2633	|M	|This game's data on the "PlayStation 2" memory card (8MB) in MEMORY CARD slot 1 is corrupted.
+2634	|M	|No data for this game on the "PlayStation 2" memory card (8MB) in MEMORY CARD slot 1.
+2635	|M	|Loaded this game's data from the "PlayStation 2" memory card (8MB) in MEMORY CARD slot 1.
+2636	|M	|This game's data already exists on the "PlayStation 2" memory card (8MB) in MEMORY CARD slot 1.|Overwrite it?
+2637	|M	|Save this game's data to the "PlayStation 2" memory card (8MB) in MEMORY CARD slot 1?
+2638	|M	|This game's data on the "PlayStation 2" memory card (8MB) in MEMORY CARD slot 1 is corrupted.|Start the game anyway?
+2639	||	||Start the game without loading saved data?
+2640	||	||Cancel loading?
+2641	|M	|Load this game's data from the "PlayStation 2" memory card (8MB) in MEMORY CARD slot 1?
+2642	||	||Save clear data?
+2643	ME	No "PlayStation 2" memory card (8MB) in MEMORY CARD slot 1.|Saving this game needs at least %sKB of free space.
+2644	っか	Gah, I knew it was a trap! 50 million Gildan was way too much money!
+2645	歩行	Walk!
+2646	射撃	Fire a shot!
+2647	浅瀬	Head for the shallows!~~Go to shallows
+2648	偽装	Decoy ship lost/Your AT destroyed~~Decoy ship lost/AT destroyed
+2649	小隊	Squad leader lost/Your AT destroyed~~Squad leader lost/AT destroyed
+2650	AT	ATs got no shields. Use this to dodge the bullets.
+2651	っか	Gah! I knew it was a trap! 50 million Gildan was way too much money.
+2653	 ス	{keep1}Scopedog (Konin Colors)
+2654	!ス	{keep1}Scopedog (Oriya Colors)
+2655	"ス	{keep1}Scopedog (Odon Battle Spec)
+2656	#タ	{keep1}Turbo Custom (Grego)
+2657	$タ	{keep1}Turbo Custom (Mousa)
+2658	%タ	{keep1}Turbo Custom (Baiman)
+2659	&Ｒ	{keep1}RS Turbo Custom (Chirico)
+2660	'Ｒ	{keep1}RS Turbo Custom (Grego)
+2661	(Ｒ	{keep1}RS Turbo Custom (Mousa)
+2662	)Ｒ	{keep1}RS Turbo Custom (Baiman)
+2663	*Ｒ	{keep1}RS Custom (Riemann)
+2664	+フ	{keep1}Fatty GB
+2665	,シ	{keep1}Shadow Flare
+2666	-デ	{keep1}Death Messenger
+2667	.ブ	{keep1}Blue Knight SX
+2668	/ス	{keep1}Scopedog (Round Mover)
+2669	0ラ	{keep1}Rabidlydog (Melkia Colors)
+2670	1ス	{keep1}Scopedog (ENEMY)
+2671	2ス	{keep1}Scopedog RSC A (ENEMY)
+2672	3ス	{keep1}Scopedog RSC B (ENEMY)
+2673	4ス	{keep1}Scopedog Melkia Colors
+2674	@c	@c02%s@c07 can now be bought!
+2675	@c	Can now convert to @c02%s@c07!
+2676	@c	Got @c03%s@c07!
+2677	@c	Already own @c03%s@c07, sold for
+2678	@c	Lost @c02%s@c07 x@c06%s@c07!
+2679	@c	@c03%s@c07 can now be analyzed!
+2680	@c	@c02%s@c07 skill level up!
+2681	@c	Got @c06%s@c07 Gildan!
+2682	@c	Recovered @c02%s@c07 x@c06%s@c07!

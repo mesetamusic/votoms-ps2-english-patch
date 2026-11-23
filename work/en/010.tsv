@@ -1,0 +1,57 @@
+2540	%d	%d
+2541	AT	ATM-09-ST|Scopedog
+2542	AT	ATM-09-WR|Mercydog
+2543	SP	SPEC.|Height:3731mm|Weight:6795kg|Armor:4-14mm|MC:1P-MJ-S4|Cruise Speed:42.0km/h|PR Fluid:DT-MS|PR Volume:160L|PR Swap:192h|Fixed Arms:Arm Punch
+2544	AT	ATM-09-SSC|Purple Bear
+2545	SP	SPEC.|Height:3804mm|Weight:6180kg|Armor:4-8mm|MC:1P-MJ-S2|Cruise Speed:45.0km/h|PR Fluid:DT-MO|PR Volume:138L|PR Swap:148h|Fixed Arms:None
+2546	AT	ATM-09-STC|Strong Bacchus
+2547	SP	SPEC.|Height:3815mm|Weight:7200kg|Armor:10-25mm|MC:1P-MJ-S2|Cruise Speed:42.0km/h|PR Fluid:DT-MO2|PR Volume:142L|PR Swap:20h|Fixed Arms:None
+2548	|S	|SPEC.|Height:4017mm|Weight:7269kg|Armor:8-14mm|MC:1P-MJ-S4|Cruise Speed:50.2km/h|PR Fluid:DT-MO|PR Volume:192L|PR Swap:72h|Fixed Arms:Arm Punch
+2549	SP	SPEC.|Height:3804mm|Weight:5333kg|Armor:6-14mm|MC:1P-MJ-S2|Cruise Speed:52.3km/h|PR Fluid:DT-MO|PR Volume:184L|PR Swap:89h|Fixed Arms:Arm Punch
+2550	SP	SPEC.|Height:4223mm|Weight:8812kg|Armor:6-16mm|MC:1P-MJ-S2|Cruise Speed:43.0km/h|PR Fluid:DT-MO|PR Volume:185L|PR Swap:231h|Fixed Arms:Pile Bunker
+2551	SP	SPEC.|Height:4148mm|Weight:8415kg|Armor:6-15mm|MC:2P-LJ-S4|Cruise Speed:47.0km/h|PR Fluid:DT-MS|PR Volume:190L|PR Swap:166h|Fixed Arms:Arm Punch
+2552	|S	|SPEC.|Height:4022mm|Weight:8305kg|Armor:6-15mm|MC:1P-LJ-S4|Cruise Speed:44.0km/h|PR Fluid:DT-MS|PR Volume:110L|PR Swap:80h|Fixed Arms:11mm MGx2
+2553	SP	SPEC.|Height:4274mm|Weight:8590kg|Armor:9-14mm|MC:1P-NJ-S5|Cruise Speed:38.0km/h|PR Fluid:DT-K/DT-M/DT-MO|PR Volume:180L|PR Swap:120h|Fixed Arms:Pile Bunker
+2554	SP	SPEC.|Height:4274mm|Weight:8333kg|Armor:8-14mm|MC:1P-NJ-S4|Cruise Speed:42.0km/h|PR Fluid:DT-M/DT-MO|PR Volume:180L|PR Swap:162h|Fixed Arms:Pile Bunker
+2555	B-	B-ATM-03|Fatty
+2556	SP	SPEC.|Height:4020mm|Weight:8812kg|Armor:6-16mm|MC:PP-BS-305-II|Cruise Speed:32.0km/h|PR Fluid:BP-CC|PR Volume:188L|PR Swap:98h|Fixed Arms:None
+2557	AT	ATH-XX|Ecrevisse
+2558	X-	X-ATL-01-DT|Zwerg
+2559	SP	SPEC.|Height:2912mm|Weight:3436kg|Armor:5-7mm|MC:1P-NI-S2|Cruise Speed:51.0km/h|PR Fluid:DT-M|PR Volume:95L|PR Swap:182h|Fixed Arms:11mm Triple MGx2
+2560	X-	X-ATH-02-DT|Rabidlydog
+2561	X-	X-ATH-P-RSC|Bloodsucker
+2562	SP	SPEC.|Height:4380mm|Weight:7932kg|Armor:5-15mm|MC:1P-ML-S4|Cruise Speed:53.0km/h|PR Fluid:DT-MS-P|PR Volume:195L|PR Swap:80h|Fixed Arms:Arm Punch| :Smoke Dischargerx2
+2563	SP	SPEC.|Height:3852mm|Weight:7423kg|Armor:6-14mm|MC:1P-MJ-S4|Cruise Speed:49.0km/h|PR Fluid:DT-MS-P|PR Volume:195L|PR Swap:120h|Fixed Arms:Arm Punch
+2564	X-	X-ATH-11|Erdspinne
+2565	X-	X-ATH-11TC|Oder Buckler
+2566	SP	SPEC.|Height:3804mm|Weight:6627kg|Armor:6-14mm|MC:1P-MJ-S2|Cruise Speed:41.0km/h|PR Fluid:DT-MO|PR Volume:184L|PR Swap:218h
+2567	SP	SPEC.|Height:3731mm|Weight:6795kg|Armor:4-14mm|MC:1P-MJ-S4|Cruise Speed:42.0km/h|PR Fluid:DT-MS|PR Volume:160L|PR Swap:192h
+2568	SP	SPEC.|Height:3804mm|Weight:6983kg|Armor:6-14mm|MC:2P-MJ-S4|Cruise Speed:52.0km/h|PR Fluid:DT-MS|PR Volume:169L|PR Swap:147h
+2569	SP	SPEC.|Height:3804mm|Weight:6180kg|Armor:4-8mm|MC:1P-MJ-S2|Cruise Speed:45.0km/h|PR Fluid:DT-MO|PR Volume:138L|PR Swap:148h
+2570	SP	SPEC.|Height:3815mm|Weight:7200kg|Armor:10-25mm|MC:1P-MJ-S2|Cruise Speed:42.0km/h|PR Fluid:DT-MO2|PR Volume:142L|PR Swap:20h
+2571	SP	SPEC.|Height:4210mm|Weight:7213kg|Armor:6-14mm|MC:1P-MJ-S2|Cruise Speed:52.0km/h|PR Fluid:DT-MO|PR Volume:184L|PR Swap:164h
+2572	SP	SPEC.|Height:4017mm|Weight:7269kg|Armor:8-14mm|MC:1P-MJ-S4|Cruise Speed:50.2km/h|PR Fluid:DT-MO|PR Volume:192L|PR Swap:72h
+2573	SP	SPEC.|Height:3804mm|Weight:5333kg|Armor:6-14mm|MC:1P-MJ-S2|Cruise Speed:52.3km/h|PR Fluid:DT-MO|PR Volume:184L|PR Swap:89h
+2574	SP	SPEC.|Height:4223mm|Weight:8812kg|Armor:6-16mm|MC:1P-MJ-S2|Cruise Speed:43.0km/h|PR Fluid:DT-MO|PR Volume:185L|PR Swap:231h
+2575	SP	SPEC.|Height:4148mm|Weight:8415kg|Armor:6-15mm|MC:2P-LJ-S4|Cruise Speed:47.0km/h|PR Fluid:DT-MS|PR Volume:190L|PR Swap:166h
+2576	SP	SPEC.|Height:4022mm|Weight:8302kg|Armor:6-15mm|MC:1P-LK-S2|Cruise Speed:43.0km/h|PR Fluid:DT-MO|PR Volume:207L|PR Swap:142h
+2577	SP	SPEC.|Height:4022mm|Weight:8305kg|Armor:6-15mm|MC:1P-LJ-S4|Cruise Speed:44.0km/h|PR Fluid:DT-MS|PR Volume:110L|PR Swap:80h
+2578	SP	SPEC.|Height:4022mm|Weight:8511kg|Armor:5-15mm|MC:1P-LK-S4|Cruise Speed:40.0km/h|PR Fluid:DT-MO|PR Volume:190L|PR Swap:82h
+2579	SP	SPEC.|Height:4022mm|Weight:8481kg|Armor:5-15mm|MC:2P-LJ-S4|Cruise Speed:50.0km/h|PR Fluid:DT-MH|PR Volume:190L|PR Swap:74h
+2580	SP	SPEC.|Height:4274mm|Weight:8590kg|Armor:9-14mm|MC:1P-NJ-S5|Cruise Speed:38.0km/h|PR Fluid:DT-K/DT-M/DT-MO|PR Volume:180L|PR Swap:120h
+2581	SP	SPEC.|Height:4274mm|Weight:8333kg|Armor:8-14mm|MC:1P-NJ-S4|Cruise Speed:42.0km/h|PR Fluid:DT-M/DT-MO|PR Volume:180L|PR Swap:162h
+2582	SP	SPEC.|Height:4020mm|Weight:8812kg|Armor:6-16mm|MC:PP-BS-305-II|Cruise Speed:32.0km/h|PR Fluid:BP-CC|PR Volume:188L|PR Swap:98h
+2583	SP	SPEC.|Height:4125mm|Armor:6-16mm|MC:PP-BS-305-II|PR Fluid:BP-CC|PR Volume:188L|PR Swap:98h
+2584	AT	ATH-Q63BTS|Berserga BTS "Blue Knight"
+2585	B-	B-ATH-XX|Ecrevisse
+2586	SP	SPEC.|Height:4380mm|Weight:8922kg|Armor:7-18mm|MC:PP-BJ-XX|Cruise Speed:51.0km/h|PR Fluid:BP-CZ|PR Volume:187L|PR Swap:138h
+2587	SP	SPEC.|Height:2912mm|Weight:3436kg|Armor:5-7mm|MC:1P-NI-S2|Cruise Speed:51.0km/h|PR Fluid:DT-M|PR Volume:95L|PR Swap:182h
+2588	X-	X-ATH-02-SA|Strikedog
+2589	SP	SPEC.|Height:4250mm|Weight:7750kg|Armor:6-14mm|MC:3P-LL-S4|Cruise Speed:60.0km/h|PR Fluid:DT-MS-P|PR Volume:200L|PR Swap:22h
+2590	SP	SPEC.|Height:4137mm|Weight:7737kg|Armor:6-14mm|MC:2P-LL-S4|Cruise Speed:62.0km/h|PR Fluid:DT-MS|PR Volume:200L|PR Swap:162h
+2591	SP	SPEC.|Height:4380mm|Weight:7932kg|Armor:5-15mm|MC:1P-ML-S4|Cruise Speed:53.0km/h|PR Fluid:DT-MS-P|PR Volume:195L|PR Swap:80h
+2592	SP	SPEC.|Height:3852mm|Weight:7423kg|Armor:6-14mm|MC:1P-MJ-S4|Cruise Speed:49.0km/h|PR Fluid:DT-MS-P|PR Volume:195L|PR Swap:120h
+2593	SP	SPEC.|Height:4928mm|Weight:8764kg|Armor:7-18mm|MC:2P-MM-S4|Cruise Speed:45.0km/h|PR Fluid:DT-MS|PR Volume:184L|PR Swap:150h
+2594	X-	X-ATH-11-TC|Oder Buckler
+2595	SP	SPEC.|Height:4319mm|Weight:8420kg|Armor:7-18mm|MC:2P-MM-S4|Cruise Speed:46.0km/h|PR Fluid:DT-MS2|PR Volume:194L|PR Swap:138h
+2596	|S	|SPEC.|Height:3804mm|Weight:6627kg|Armor:6-14mm|MC:1P-MJ-S2|Cruise Speed:41.0km/h|PR Fluid:DT-MO|PR Volume:184L|PR Swap:218h

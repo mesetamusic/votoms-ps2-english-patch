@@ -1,0 +1,182 @@
+2683	#E	#E button or tap a direction twice quickly to evade.|You're invincible meanwhile and take no attacks.|Time it to dodge enemy attacks.
+2684	#D	Press #D to fire.|Firing weapons have limited ammo.|Ammo refills automatically over time.
+2685	右ス	Press in the right stick to change view.|Each press switches to First Person, then Zoom.||Weapon range is longer in these views.|Move the right stick to control the camera.
+2686	Ｒ２	Press R2 to switch weapons.|Each press changes the equipped weapon.|Press #D to use the weapon equipped here.
+2687	#C	Press #C for a melee attack.|A short press is quick; a long press is a strong attack that knocks foes down.||Enemy ATs beaten in melee drop their weapons.|To steal a weapon, finish them in melee.
+2688	ＡＴ	After your AT is destroyed and you bail out, allies will send you an AT after a while.||Once you bail out, hide from the enemy.
+2689	AT	ATH-Q63BTSII SX|Berserga Super Execution|"Blue Knight"
+2690	黒き	Wolf Leader
+2691	った	Geez... Listen, Chirico, if they spot us, we're done for.
+2692	った	Geez, there's no end to them...!
+2693	って	Hey, wait, Coconna...
+2694	った	Geez... Fine, can't be helped...
+2695	やっ	I knew it! No way you'd die on us! Hahaha...
+2696	キリ	Chirico?! Nothing broken? You had me worried!
+2697	ひゃ	Woo-hoo! Chirico! You did it!
+2698	また	I survived again... but the pain stays. Tomorrow I face the next abyss of pain... and then...
+2699	この	You idiot, always jumping into danger. Nothing broken?
+2700	もう	Geez, Chirico, what are you doing?
+2701	やば	This is bad... Let's talk about running away already.
+2702	　キ	  Chirico               Hozumi Gouda
+2703	　フ	  Fyana                 Kazuko Yanaga
+2704	　イ	  Ypsilon               Kyonosuke Kami
+2705	　ゴ	  Gotho                 Kousei Tomita
+2706	　コ	  Coconna               Yoko Kawanami
+2707	　バ	  Vanilla               Shigeru Chiba
+2708	　ロ	  Rochina               Banjo Ginga
+2709	　イ	  Iskui                 Yusaku Yara
+2710	　ボ	  Borough               Kenichi Ogata
+2711	　シ	  Shakko                Issei Masamune
+2712	　ポ	  Potalia               Sho Hayami
+2713	　キ	  Kiderer               Daisuke Gori
+2714	　カ	  Kan Yu / Niva         Masashi Hirose
+2715	　ゾ	  Zophie                Nana Yamaguchi
+2716	　グ	  Grego                 Kiyoshi Kobayashi
+2717	　ム	  Mousa                 Ryusei Nakao
+2718	　バ	  Baiman                Wataru Takagi
+2719	　テ	  Teitania              Yoko Matsuoka
+2720	　ア	  Aron                  Akio Nojima
+2721	　グ	  Gran                  Issei Futamata
+2722	　ワ	  Wiseman               Hidekatsu Shibata
+2723	　ウ	  Wockham               Unsho Ishizuka
+2724	アギ	Aguilera Roman Andres
+2725	キャ	Character Design & Illustration
+2726	オー	Opening Movie
+2727	有限	Shiitake Digital Co., Ltd.
+2728	パッ	Package Art
+2729	株式	Asahi Production Co., Ltd.
+2730	株式	Audio Planning U Co., Ltd.
+2731	コー	Coordinator
+2732	ミキ	Mixer
+2733	株式	Sunrise Inc.
+2734	株式	Sunrise Music Publishing Co., Ltd.
+2735	株式	Hobby Japan Co., Ltd.
+2736	（株	(Sony Computer Entertainment Japan Inc.)
+2737	スペ	Special Thanks
+2738	第三	Division 3 Staff
+2739	ゼネ	General Manager
+2740	アソ	Associate Producer
+2741	プロ	Producer
+2742	エグ	Executive Producer
+2743	2キ	{keep1}Chirico Cuvie
+2744	3フ	{keep1}Fyana
+2745	4イ	{keep1}Ypsilon
+2746	=ビ	{keep1}Vilar Guerrilla
+2747	>異	{keep1}Anomaly Chirico
+2748	?傷	{keep1}Scarred Ypsilon
+2749	@ゴ	{keep1}Gotho
+2750	Aバ	{keep1}Vanilla
+2751	Bコ	{keep1}Coconna
+2752	Cイ	{keep1}Iskui
+2753	Dボ	{keep1}Borough
+2754	Eカ	{keep1}Kan Yu
+2755	Fブ	{keep1}Buri Kiderer
+2756	Gポ	{keep1}Pol Potalia
+2757	Hル	{keep1}Le Shakko
+2758	Iゾ	{keep1}Zophie Fadas
+2759	Jロ	{keep1}Rochina (Melkia)
+2760	Kロ	{keep1}Rochina (Balarant)
+2761	Lグ	{keep1}Grego Garosh
+2762	Mム	{keep1}Mousa Merime
+2763	Nバ	{keep1}Baiman Haggard
+2764	Oラ	{keep1}Rada Niva
+2765	Pテ	{keep1}Teitania
+2766	Qア	{keep1}Aron
+2767	Rグ	{keep1}Gran
+2768	Sワ	{keep1}Wiseman
+2769	Uバ	{keep1}Balarant Soldier (Grunt)
+2770	Vギ	{keep1}Gilgamesh Soldier
+2771	Wバ	{keep1}Battling Pilot
+2772	Xバ	{keep1}Battling Pilot B
+2773	治安	Security Police Gunship
+2774	ヂヂ	Jijirium Tanker Truck
+2775	エィ	AT Fly
+2776	ファ	Fire Parrot
+2777	バラ	Balarant AT Space Lander Zahatt
+2778	クエ	A special radar made on Quent. Its strong metal detection lets you find items.
+2779	極限	Custom data for running an ultralight frame stably. Raises mobility.
+2780	重装	Custom data for running a heavily armored frame stably. Raises armor.
+2781	エア	Deploys the air purge automatically. No more limits when moving on water.
+2782	重装	A dedicated program for controlling heavy armor. Raises AT durability.
+2783	完璧	Ruthless tuning for the perfect soldier. Greatly raises critical hit rate.
+2784	湿地	Data for controlling units customized for swamp and underwater combat.
+2785	通称	A program used by the Bloodsuckers that maxes shooting. Raises ammo and power.
+2786	秘密	PS-spec data built by the Secret Society. Brings out full mobility and melee.
+2787	マー	Data of Martial's mightiest warrior. Greatly raises armor and attack.
+2788	ＡＴ	The minimum data needed to run an AT. Reliably draws out its abilities.
+2789	バト	Melee-focused data tuned by Battling pilots. Greatly raises melee.
+2790	対戦	Fearsome data that leads foes to death. Hugely raises attack in Battling only.
+2791	失わ	Power of a lost civilization no human can wield. Always boosts attack hugely.
+2792	青の	Battling melee data from the Blue Knight. Its power pierces all.
+2793	破壊	Corrupted data. Barely enough to move an AT. Abilities drop sharply.
+2794	予備	Uses spare magazines to refill bullets. Lets you keep more ammo on hand.
+2795	的確	Shooting data that boosts heavy weapons through precise aim. Greatly raises shooting.
+2796	悪路	Deploys rough-terrain parts. Ignores terrain except rivers, but slower on flat ground.
+2797	ター	Deploys the turbo for high-speed moves. But it takes skill to handle.
+2798	ＡＴ	Ecrevisse's special move that defies AT logic. Even evades Combat Programs.
+2799	射撃	Fully nullifies shots and melee, but slowly drains the gauge while in use.
+2800	ガー	Dashes forward while guarding. Even evades Attack Programs while in use.
+2801	ガー	Lets you fire while guarding. Can nullify enemy shots.
+2802	全て	Refills ammo for all weapons to max.
+2803	全方	Lays a barrage in all directions with the right-hand weapon. Usable regardless of ammo.
+2804	左右	Fire the right-hand weapon while leaping sideways. Immune to attacks meanwhile.
+2805	その	A quick 180-degree turn on the spot. Instantly faces foes behind you.
+2806	足で	A high kick. Plain, but very versatile.
+2807	一時	Pushes the unit to its limit for a while. MD gauge isn't used for a time.
+2808	ター	Parries the target's melee attack backward with no damage.
+2809	機体	Uses gun recoil to recover when knocked off balance. Auto-activates when downed.
+2810	シャ	Shadow Flare's booster function. Allows high speed but is very hard to handle.
+2811	青の	The Blue Knight's booster function. Allows high speed but is very hard to handle.
+2812	強力	An advanced technique landing strong Arm Punches on the head and body in a row.
+2813	アー	A basic attack using the Arm Punch to damage the foe's body repeatedly.
+2814	相手	Lunges at the foe's head and unleashes an Arm Punch.
+2815	敵の	A fierce, unmatched attack landing crushing blows on head and body.
+2816	機体	Spins the unit and uses centrifugal force for a two-armed strike.
+2817	右手	Rapid-fires the right-hand weapon to pin foes down. Rapid-fire weapons only.
+2818	右手	Snipes a distant foe's legs with the right-hand weapon to knock it down. Never misses.
+2819	相手	A melee technique striking hard at the foe's right side.
+2820	相手	A melee technique striking hard at the foe's left side.
+2821	相手	An advanced melee move: a jumping kick to the head with full body weight.
+2822	相手	A melee technique: a spinning Arm Punch aimed at the foe's legs.
+2823	加速	A melee move that slides the unit along the ground at speed to hit legs.
+2824	火薬	A deadly technique driving a steel stake with gunpowder for a fatal blow.
+2825	鋼鉄	A deadly technique firing a steel stake by electromagnetism for a fatal blow.
+2826	鋼鉄	A deadly technique shooting a steel stake like an arrow at a distant foe.
+2827	勢い	A melee move: charge shoulder-first and slam the foe to the ground.
+2828	タッ	A strong technique: tackle the foe, then shoot it down to finish it.
+2829	肩口	Charge shoulder-first, then follow up with the Pile Bunker. Fatty GA only.
+2830	機動	An advanced melee move that pushes the agile Ecrevisse to its limit.
+2831	両腕	Zwerg's shooting technique: sweeps foes with its built-in arm machine guns.
+2832	右腕	A strong advanced move: rams the right steel claw into the body and tears upward.
+2833	左腕	An advanced move: rams the left steel claw into the body for fatal damage.
+2834	敵の	Shoots at the foe's feet, then strafes it hard once it falls.
+2835	ザイ	Erdspinne's advanced technique: uses its cable to ram the foe.
+2836	ザイ	Oder Buckler's advanced technique: uses its cable to ram the foe.
+2837	ドロ	Deploys the Droppers Folding Gun to snipe distant foes. Very powerful.
+2838	煙幕	A shooting technique: lay smoke and shoot the confused foe for big damage.
+2839	相手	The Bloodsuckers' bloody finisher that sends foes to hell. Merciless.
+2840	相手	A herald from hell that leads foes to death. The bloody red shoulder terrifies.
+2841	敵の	A melee technique that strikes the foe's right side and wrecks its right arm.
+2842	敵の	A melee technique that strikes the foe's left side and wrecks its left arm.
+2843	敵の	A melee technique that strikes the foe's lower body and wrecks its legs.
+2844	敵の	A melee technique that strikes the foe's head and wrecks its support systems.
+2845	転倒	A strong down attack: an Arm Punch on a fallen foe.
+2846	転倒	A strong down attack: pounce on a fallen foe and crush it.
+2847	転倒	A strong down attack: a hard kick on a fallen foe.
+2848	バト	A rough power move favored by Battling pilots. Strong enough for real combat.
+2849	アー	A combo using the Arm Punch to deal fatal damage to the foe's body.
+2850	相手	An upgraded lunge at the foe's head with an Arm Punch.
+2851	右手	Fiercely rapid-fires the right-hand weapon to riddle foes. Rapid-fire weapons only.
+2852	相手	A melee technique: a crushing blow to the foe's right side.
+2853	相手	A melee technique: a crushing blow to the foe's left side.
+2854	強力	A deadly technique driving a steel stake with strong gunpowder for a fatal blow.
+2855	鋼鉄	A deadly technique firing a steel stake with great force at a distant foe.
+2856	左腕	An advanced move: rams the left steel claw into the body for devastating damage.
+2857	相手	The Bloodsuckers' advanced move that sends foes to hell. The red wing marks a devil.
+2858	敵の	An expert melee move: a crushing strike to the right side that wrecks the right arm.
+2859	敵の	An expert melee move: a crushing strike to the left side that wrecks the left arm.
+2860	敵の	An expert melee move: a crushing strike to the lower body that wrecks the legs.
+2861	敵の	An expert melee move: a crushing strike to the head that wrecks support systems.
+2862	敵の	An expert melee move landing crushing blows on head and body. Its power is immeasurable.
+2863	タッ	Tag A
+2864	タッ	Tag B

@@ -1,0 +1,136 @@
+120	ＡＴ	AT Garage
+121	新た	A new mission is available!
+122	新た	A new scenario is available!
+123	ミッ	Scenario Select has been added|to Mission Select!
+124	エク	The Extra Scenario is now playable.
+125	ベル	The Berserga Scenario is now playable.
+126	全て	All ATs can now be purchased!
+127	セー	Save
+128	ミッ	Start Mission
+129	シナ	Scenario Select
+130	はい	Yes
+131	いい	No
+132	モデ	Rotate
+133	モデ	Model Zoom
+134	モデ	Move Model
+135	カメ	Rotate Cam
+136	ラン	Random
+137	ボイ	Play Voice
+138	マッ	View Map
+139	ミッ	Mission Disk Info
+140	イラ	Switch Art
+141	ラン	Sort by Rank
+142	ＡＴ	Sort by AT
+143	プレ	Select a mission and sortie.
+144	搭乗	Set up the AT you will pilot.
+145	ＣＯ	Battle the COM or other players.
+146	獲得	View unlocked ATs, BGM and other extras.
+147	オプ	Change game settings.
+148	プレ	Choose a mission to play.
+149	この	This mission can't be selected yet.
+150	ミッ	Mission details.
+151	現在	Start the mission with these settings.
+152	ＡＴ	Select an AT.
+153	この	Pilot this AT.
+154	この	Buy this AT.
+155	別の	Convert another AT to get this one.
+156	ミッ	Set up your Mission Disks.
+157	ＡＴ	Back to AT selection.
+158	重火	Battling rules with melee attacks only, no heavy arms.
+159	重火	Battling rules with heavy arms, like real combat.
+160	対戦	Select the stage to fight on.
+161	試合	Select the match format.
+162	ＡＴ	Go to AT selection.
+163	獲得	View 3D models of the ATs you own.
+164	ゲー	Listen to the BGM used in the game.
+165	鑑賞	Select an AT to view.
+166	鑑賞	Select a BGM track to play.
+167	コン	Game settings, such as controller setup.
+168	サウ	System settings, such as sound.
+169	ミッ	Select the mission difficulty.
+170	コン	Set the controller type.
+171	射撃	The fire button becomes R1.
+172	サウ	Set the sound output mode.
+173	ＢＧ	Set the BGM volume.
+174	ＳＥ	Set the SE volume.
+175	コン	Set controller vibration.
+176	セー	Save your game.
+177	ロー	Load a saved game.
+178	壁の	Select walls on or off.
+179	ボイ	Set the voice volume.
+180	バト	Get ready for battling.
+181	賞金	Set the prize money.
+182	キャ	View the character profiles.
+183	閲覧	Select a character to view.
+184	右腕	Right arm: Log Gun.
+185	右腕	Right arm: Solid Shooter.
+186	右腕	Right arm: Handy Rocket Gun.
+187	右腕	Right arm: Handy Rocket Launcher.
+188	右腕	Right arm: Catapult Launcher.
+189	右腕	Right arm: Hard Bread Gun.
+190	プレ	Choose a scenario to play.
+191	タイ	Type Info
+192	機体	Tune your machine.
+193	今ま	View the Mission Disks you've collected.
+194	ミッ	View Mission Disk details.
+195	今ま	Watch movies you've already seen.
+196	右腕	Right arm: Heavy Machine Gun Short Barrel Custom.
+197	内容	Select a Mission Disk to inspect.
+198	鑑賞	Select a movie to watch.
+199	ブロ	Blow Battle
+200	リア	Real Battle
+201	バト	Battling Rules
+202	ダー	Dirt
+203	バト	Battling Stage
+204	壁の	Walls
+205	通常	A normal steel-plate floor. You won't slip.
+206	移動	Movement inertia is increased. Some machines are not affected.
+207	移動	Movement inertia is slightly increased. Some machines are not affected.
+208	土の	A dirt floor. You will slide when you stop moving.
+209	１Ｐ	1P Odds
+210	２Ｐ	2P Odds
+211	ロッ	Lock
+212	クリ	Critical
+213	この	Start battling with these settings?
+214	難易	Difficulty
+215	ミッ	Mission Disk
+216	チュ	Tuning
+217	ＡＴ	AT Select
+218	ガレ	Garage Menu
+219	ミッ	Mission Disk Select
+220	搭乗	Set as Mount
+221	換装	One source AT will be lost. Convert anyway?
+222	解析	Disks Analyzed
+223	セッ	Set
+224	クラ	Class
+225	購入	Buy this?
+226	これ	Is this OK?
+227	ディ	Disk Name
+228	ムー	Movie Name
+229	コン	Controller Setup
+230	サウ	Sound
+231	ステ	Stereo
+232	モノ	Mono
+233	ＢＧ	BGM Volume
+234	ＳＥ	SE Volume
+235	ボイ	Voice Volume
+236	セー	Save / Load
+237	ロー	Load
+238	設定	Your changes will not be applied. Is that OK?
+239	キリ	Chirico~~Kiriko
+240	しゃ	Crouch
+241	ロッ	Switch Lock Target
+242	ミッ	Use Mission Disk
+243	武器	Get Weapon
+244	ＡＴ	Exit AT
+245	ＡＴ	Board AT
+246	タイ	Type A
+247	タイ	Type B
+248	タイ	Type C
+249	ボタ	Button
+250	この	Buy this track?
+251	ロー	Roller Dash / Walk
+252	追従	Follow Camera
+253	レア	Rare:
+254	アン	Uncommon:
+255	コモ	Common:

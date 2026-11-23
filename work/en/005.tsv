@@ -1,0 +1,240 @@
+960	難易	Difficulty
+961	ＥＡ	EASY
+962	ＮＯ	NORMAL
+963	ＨＡ	HARD
+964	１Ｐ	1P
+965	２Ｐ	2P
+966	照準	Aim Up/Down
+967	ＯＮ	ON
+968	ＯＦ	OFF
+969	ＡＴ	AT
+970	回避	Evade
+971	武器	Switch Weapon
+972	視点	Switch View
+973	ｓｏ	sold out!
+974	収集	Collected
+975	装備	Loadout
+976	Ａ装	Loadout A
+977	Ｂ装	Loadout B
+978	対応	Compatible ATs
+979	了解	Roger!
+980	？？	???
+981	終戦	War's End
+982	取引	The Deal
+983	遡行	Upstream
+984	暗転	Blackout
+985	対決	Showdown
+986	恩讐	Vendetta
+987	修羅	Carnage
+988	流星	Meteor
+989	陽動	Diversion
+990	帰還	Return
+991	襲撃	Assault
+992	偵察	Recon
+993	逆襲	Counterattack
+994	頂上	Summit
+995	脱出	Escape
+996	奪取	Seizure
+997	応戦	Return Fire
+998	疑惑	Suspicion
+999	触発	Flashpoint
+1000	錯綜	Entangled
+1001	横断	Crossing
+1002	掃討	Sweep
+1003	補給	Supplies
+1004	血路	Breakout
+1005	渡河	River Crossing
+1006	惨劇	Tragedy
+1007	結束	Unity
+1008	死線	Deadline
+1009	死守	Last Stand
+1010	孤影	Lone Shadow
+1011	激闘	Fierce Battle
+1012	砂漠	Desert
+1013	連合	Crush the Allies
+1014	生命	Lifeline
+1015	羅刹	Demon
+1016	治安	Police Base
+1017	戦艦	Ship X
+1018	SP	SPEC.|Height: 3804mm|Base Weight: 6627kg|Armor: 6-14mm|MC: 1P-MJ-S2|Cruise Speed: 41.0km/h|PR Fluid: DT-MO|PR Volume: 184 L|Std. Swap Time: 218h|Fixed Arms: Arm Punch
+1019	AT	ATM-09-GC|Brutishdog
+1020	SP	SPEC.|Height: 3804mm|Base Weight: 6983kg|Armor: 6-14mm|MC: 2P-MJ-S4|Cruise Speed: 52.0km/h|PR Fluid: DT-MS|PR Volume: 169 L|Std. Swap Time: 147h|Fixed Arms: Arm Punch|  7-Barrel Gatling Gun|  Iron Claw
+1021	|ス	|A PS-only AT developed by the Secret Society from the Scopedog. A PRSP pack on its back boosts output and mobility.
+1022	AT	ATM-09-ST|Scopedog (Ship X Model)
+1023	AT	ATM-09-STTC|Scopedog|Turbo Custom
+1024	AT	ATM-09-LC|Light Scopedog
+1025	AT	ATM-09-HC|Berserga Imitate
+1026	AT	ATH-06-WP|Diving Beetle
+1027	AT	ATH-14-ST|Standing Tortoise
+1028	SP	SPEC.|Height: 4022mm|Base Weight: 8302kg|Armor: 6-15mm|MC: 1P-LK-S2|Cruise Speed: 43.0km/h|PR Fluid: DT-MO|PR Volume: 207 L|Std. Swap Time: 142h|Fixed Arms: Arm Punch|  11mm MG x2
+1029	AT	ATH-14-SA|Standing Tortoise Mk-II
+1030	AT	ATH-14-WP|Standing Turtle
+1031	SP	SPEC.|Height: 4022mm|Base Weight: 8511kg|Armor: 5-15mm|MC: 1P-LK-S4|Cruise Speed: 40.0km/h|PR Fluid: DT-MO|PR Volume: 190 L|Std. Swap Time: 82h|Fixed Arms: Arm Punch|  11mm MG x2
+1032	|ス	|A Standing Tortoise customized for swamp combat. It reached the Vilar guerrillas through the black market.~~|A swamp-combat Standing Tortoise. It reached the Vilar guerrillas via the black market.
+1033	AT	ATH-14-WPC|Snapping Turtle
+1034	SP	SPEC.|Height: 4022mm|Base Weight: 8481kg|Armor: 5-15mm|MC: 2P-LJ-S4|Cruise Speed: 50.0km/h|PR Fluid: DT-MH|PR Volume: 190 L|Std. Swap Time: 74h|Fixed Arms: Arm Punch|  11mm MG x2
+1035	|ス	|A Standing Turtle customized for PS use. With boosted mobility, Assemble's mercs feared it as the "Blue AT."
+1036	AT	ATH-Q58|Berserga DT
+1037	AT	ATH-Q64|Berserga WP
+1038	B-	B-ATM-03-GA|Fatty (Ground Type A)
+1039	SP	SPEC.|Height: 4125mm|Armor: 6-16mm|MC: PP-BS 305-II|PR Fluid: BP-CC|PR Volume: 188 L|Std. Swap Time: 98h|Fixed Arms: Pile Bunker|  Shoulder Missile Pod
+1040	SP	SPEC.|Height: 4380mm|Base Weight: 8922kg|Armor: 7-18mm|MC: PP-BJ-XX|Cruise Speed: 51.0km/h|PR Fluid: BP-CZ|PR Volume: 187 L|Std. Swap Time: 138h|Fixed Arms: 50mm Cannon x2|  Pile Bunker|  Missile Launcher x2|  Crab Claw
+1041	||	||A PS-only heavy AT the Balarant developed as the Fatty's successor. In Battling it used the ring name "Danger Melon."
+1042	X-	X-ATH-02|Strikedog
+1043	SP	SPEC.|Height: 4250mm|Base Weight: 7750kg|Armor: 6-14mm|MC: 3P-LL-S4|Cruise Speed: 60.0km/h|PR Fluid: DT-MS-P|PR Volume: 200 L|Std. Swap Time: 22h|Fixed Arms: Iron Claw|  11mm MG x1|  Arm Punch
+1044	|秘	|A prototype PS-only AT built by the Secret Society. Thrusters on its back let it fly in space, and even in atmosphere for short periods.~~|A Secret Society PS-only prototype AT. Back thrusters let it fly in space, and briefly in atmosphere.
+1045	SP	SPEC.|Height: 4137mm|Base Weight: 7737kg|Armor: 6-14mm|MC: 2P-LL-S4|Cruise Speed: 62.0km/h|PR Fluid: DT-MS|PR Volume: 200 L|Std. Swap Time: 162h|Fixed Arms: Iron Claw|  11mm MG x1|  Arm Punch
+1046	|ス	|A mass-production prototype that improves on the Strikedog. Its legs carry sand trippers for desert travel.
+1047	AT	ATM-09-DD|Burglarydog
+1048	SP	SPEC.|Height: 4928mm|Base Weight: 8764kg|Armor: 7-18mm|MC: 2P-MM-S4|Cruise Speed: 45.0km/h|PR Fluid: DT-MS|PR Volume: 184 L|Std. Swap Time: 150h|Fixed Arms: Arm Punch|  Seil Spider|  Spin Rad
+1049	|マ	|Martial's heavy AT for defending Alegium. The Seil Spider on its left shoulder fires a cable into ceilings or walls and reels it in, letting it move fast across uneven terrain.~~|Martial's heavy AT for defending Alegium. Its left-shoulder Seil Spider fires a cable into walls and reels in for fast moves over uneven ground.
+1050	SP	SPEC.|Height: 4319mm|Base Weight: 8420kg|Armor: 7-18mm|MC: 2P-MM-S4|Cruise Speed: 46.0km/h|PR Fluid: DT-MS2|PR Volume: 194 L|Std. Swap Time: 138h|Fixed Arms: Arm Punch|  Seil Spider|  Spin Rad|  Pile Bunker
+1051	||	||A custom Erdspinne with high-performance parts, built for the "Shield of Order." Piloted by the Nextant Teitania, it far outclasses other ATs.
+1052	|百	|Late in the Hundred Years' War, a sudden transfer put him in the raid on asteroid Lido, where by chance he met Fyana, the Specimen, before she awoke. That meeting would change his fate.~~|Late in the war, a sudden transfer sent him to raid asteroid Lido, where he met Fyana, the Specimen, before she awoke. It changed his fate.
+1053	|フ	|Fyana was taught combat programs, but because she met Chirico before becoming a Perfect Soldier, she became an incomplete PS.
+1054	||	||A Gilgamesh lieutenant general and Rochina's superior. A backer of the PS project, he orders the mission to retake the Specimen from Rochina.~~||A Gilgamesh lt. general, Rochina's superior and a PS project backer. He orders the Specimen retaken.
+1055	||	||A Melkian intelligence captain who leads the mission to retake the Specimen on Lt. Gen. Battentine's orders.||He later defects to the Balarant and dogs Chirico relentlessly.~~||A Melkian intel captain leading the Specimen retrieval on Battentine's orders.||Later defects to Balarant and dogs Chirico.
+1056	||	|||Kudal Konin:|A Uoodo Battling fighter and Secret Society member who led an AT unit in the Lido operation. To kill Chirico, he took Bomo's place without Gotho's okay and switched the rules to Real Battle.~~|||Kudal Konin:|A Uoodo Battler and Secret Society member who led ATs on Lido. To kill Chirico, he replaced Bomo without Gotho's okay and made it a Real Battle.
+1057	|神	|Besides the native Vilar guerrillas, the Holy Kingdom of Kummen also has Secret Society troops and AT units.~~|Kummen has Secret Society troops and AT units as well as the Vilar guerrillas.
+1058	||	||||Secret Society scientists in charge of maintaining PS functions. Twins: Aron is the elder, Gran the younger.||Aboard the Society's warship Tertain, they study Ypsilon's PS abilities.~~||||Secret Society scientists who maintain PS functions. Twins: Aron the elder, Gran the younger.||They study Ypsilon aboard the warship Tertain.
+1059	|バ	|Balarant PS are not born from inborn genetic changes like Gilgamesh's, but made by mechanically modifying normal humans.
+1060	|レ	|After the Red Shoulder disbanded, he made a living as a Battling fighter, then answered Grego's call.
+1061	||	||Martial's 13th Order "Shield of Order" and a next-gen PS, a Nextant. On the orders of her father, Cardinal Monte-Wells, she sets out to kill Chirico.||Nextants have a "sub-brain" that processes combat data at high speed.
+1062	|ま	|Her body is also mechanized, and linked with her sub-brain it gives her combat power rivaling an AT.~~|Her body is mechanized too; with her sub-brain she fights like an AT.
+1063	異能	Abnormal Survivor
+1064	素体	Specimen
+1065	再生	Salvage Dealers
+1066	狂気	Madness
+1067	補助	Sub-Brain
+1068	終曲	Finale
+1069	次回	Next Episode
+1070	AT	ATM-09-RSC|Scopedog Red Shoulder Custom
+1071	AT	ATM-09-STTC|Scopedog Turbo Custom
+1072	AT	ATM-09-LC|Light Scopedog
+1073	B-	B-ATM-03-GA|Fatty (Ground Type A)
+1074	SP	SPEC.|Height: ???|Base Weight: ???|Armor: ???|MC: ???|Cruise Speed: ???|PR Fluid: ???|PR Volume: ???|Std. Swap Time: ???
+1075	AT	ATM-09-ST|Scopedog|(Pailsen Files)
+1076	|主	|Appears in:|"The Pailsen Files"
+1077	AT	ATM-09-ST|Scopedog (Vogt Custom)
+1078	AT	ATM-09-ST|Scopedog|(Parachute Sack)
+1079	|S	|SPEC.|Height: ???|Base Weight: ???|Armor: ???|MC: ???|Cruise Speed: ???|PR Fluid: ???|PR Volume: ???|Std. Swap Time: ???
+1080	AT	ATH-14-SA|Standing Tortoise Mk-II|(Missile Pods)
+1081	AT	ATM-09-ST|Scopedog (Konin Colors)
+1082	AT	ATM-09-ST|Scopedog (Oliya Colors)
+1083	AT	ATM-09-ST|Chirico's Scopedog|(Battle of Odon)
+1084	|主	|Appears in:|"Roots of Ambition"
+1085	AT	ATM-09-STTC|Turbo Custom (Grego)
+1086	AT	ATM-09-STTC|Turbo Custom (Mousa)
+1087	AT	ATM-09-STTC|Turbo Custom (Baiman)
+1088	AT	ATM-09-STTC|RS Turbo Custom (Chirico)
+1089	AT	ATM-09-STTC|RS Turbo Custom (Grego)
+1090	AT	ATM-09-STTC|RS Turbo Custom (Mousa)
+1091	AT	ATM-09-STTC|RS Turbo Custom (Baiman)
+1092	AT	ATM-09-RSC|Red Shoulder Custom|(Riemann)
+1093	B-	B-ATM-03-GB|Fatty (Ground Type B)
+1094	UN	UNKNOWN|Shadow Flare
+1095	AT	ATM-09STC|Death Messenger
+1096	AT	ATH-Q63BTSII SX|Berserga Super Execution|"Blue Knight"
+1097	|主	|Appears in:|"Berserga Story"
+1098	AT	ATM-09-ST|Scopedog|(with Round Mover)
+1099	|S	|SPEC.|Height: 4208mm|Base Weight: 6764kg|Armor: 6-14mm|MC: 1P-MJ-S2|Cruise Speed: 41.0km/h|PR Fluid: Solnigrom|PR Volume: 160 L|Std. Swap Time: 159h
+1100	X-	X-ATH-02-DT|Rabidlydog (Melkian Colors)
+1101	予告	Trailer
+1102	ミッ	Mission Name
+1103	よし	Alright, I'll teach you the basics of piloting an AT.
+1104	まず	First, hop into that AT up ahead.
+1105	ＡＴ	It ain't just the AT. You gotta be able to handle yourself, too.
+1106	おお	Whoa there! Don't go firing that gun wildly.
+1107	よし	Right, let's start with the basics: moving your AT.
+1108	さす	Not bad, you've already got the hang of it.
+1109	ロー	Try out roller dashing and walking.
+1110	まず	First, the roller dash. Switch to your gliding wheels.
+1111	次に	Now try walking.
+1112	歩行	Knowing when to walk and when to roller dash is key.
+1113	ロー	Roller dashing is the basis of AT movement. Learn to use it well!
+1114	ＡＴ	For emergency evasion, an AT can do a short but faster-than-usual roller dash.
+1115	ＡＴ	ATs don't have shields. Use this to dodge bullets.
+1116	やる	Not bad at all!
+1117	次は	Next, handling weapons.
+1118	遠く	To aim at distant enemies, switch your turret.
+1119	やっ	Give it a try.
+1120	よし	Okay, Chirico. Now shoot the target in front of you.
+1121	よし	Okay, Chirico. Now take down the enemy in front of you.
+1122	たい	Some skill... Just what I expected of you...
+1123	おい	Hey, what's wrong? Gotten rusty after so long out of an AT?
+1124	ＡＴ	Some ATs are equipped with more than one weapon.
+1125	武器	More weapons is always better, but they're useless if you can't use 'em.
+1126	武器	Switch weapons to suit the enemy type and situation.
+1127	弾の	A gun with no ammo is useless. Go find a new weapon, quick.
+1128	武器	What do you do if you run clean out of weapons?
+1129	スコ	The Scopedog comes with an arm punch mechanism.
+1130	要は	Point is, you punch the other guy's lights out!
+1131	ちょ	There's a beat-up AT here, just right for practice. Give it a go!
+1132	ＡＴ	An AT breaks down when it's badly damaged. Switch to another early.
+1133	ＡＴ	On the battlefield, ATs are disposable. Treat yours well, but sometimes switching is quicker.
+1134	中の	Take out the guy inside, and you can steal his AT, too.
+1135	部位	Aiming for specific parts to get an edge is another option.
+1136	落ち	Some of the weapons lying around should be usable.
+1137	そい	Bet you can use that one too.
+1138	そう	That's it, Chirico. If it's usable, use it.
+1139	周り	Watch your surroundings. Don't end up in the middle of the enemy before you know it.
+1140	最後	Last up: how to use Mission Disks.
+1141	ディ	A disk has several programs set on it. Try using them.
+1142	発動	Use a Mission Disk when the timing's right, got it?
+1143	これ	That covers the basics of piloting an AT.
+1144	あと	The rest is up to you, Chirico. Live or die, it's on you.
+1145	リア	A Real Battle?! I never set up a match like that!
+1146	へぇ	Whoa! Old man Gotho, that's a bold move!
+1147	キリ	Chirico! It's for real! We've been set up!
+1148	賭け	Place your bets! Now's the time to cash in!
+1149	ヘイ	Hey! One Gildan on Chirico!
+1150	はー	Okay! Miss Coconna bets a whole one Gildan on Chirico!
+1151	くっ	Hmph! You didn't have to say "whole"!
+1152	この	This bloodlust... Could he be...
+1153	コニ	Lt. Konin?!
+1154	やほ	Yahoo! Found it, found it!
+1155	金さ	Once we get the money, we're done here!
+1156	キリ	Chirico, we got the money! We're pulling out!
+1157	おい	Hey, Chirico! Hurry up!
+1158	何を	What's he up to? That guy...
+1159	おい	Hey, this is bad... Something weird just showed up.
+1160	こん	Stick around here and you'll die a hundred times over!
+1161	キリ	Chirico, we're going ahead! Hurry up and finish it!
+1162	恐ろ	Terrifying... Who is he...?
+1163	お、	W-who... are you...
+1164	見ろ	Look... at its left shoulder...
+1165	レッ	It's the Red Shoulder...!
+1166	さぁ	That's the Red Shoulder for ya. Unreal...
+1167	おい	Hey, Chirico! If you're sneaking into the Security Police, now's your chance!
+1168	キリ	Chirico, together we're an easy target.
+1169	ひと	Let's split up for now.
+1170	ゴロ	Thugs or not... they seem to know how to fight...
+1171	私た	They mean to drive us out...
+1172	エレ	Let's take the elevator down.
+1173	地下	We go all the way underground.
+1174	ごく	Only a few know this, but an underground express line runs beside the machine room.
+1175	この	It's... beyond the wall at the end here!
+1176	この	Let's break this wall!
+1177	突っ	We're going in!
+1178	キリ	Chirico! Move up and draw their attention!
+1179	単独	Alone, sir?
+1180	無論	Of course. Go see how tough the Vilar are.
+1181	大尉	Captain, the enemy's moving!
+1182	まだ	Not yet...
+1183	しか	But Chirico's in danger!
+1184	ほお	Leave him.
+1185	やっ	I knew it...!
+1186	やめ	Stop it, stop it!
+1187	やめ	Stop! ...It's me!
+1188	やめ	Stop! ...Fyana!
+1189	この	These reactions... no ordinary human.
+1190	フィ	Fyana! It's me! Don't you know me?
+1191	フィ	Fyana... As a PS, you should know... It's me! Chirico!
+1192	忘れ	You can't have forgotten! Why fight me?!
+1193	フィ	Fyana! Stop it!
+1194	わか	You understand now! Fyana!
+1195	寺に	A temple needs ammo?!
+1196	ばか	Fool! You'll wake a sleeping giant!
+1197	見ろ	Look! This place was a Vilar nest after all!
+1198	船は	Protect the boat at all costs!
+1199	のぁ	Gah! You did it now!

@@ -1,0 +1,8 @@
+# game data never goes in the repo
+*.iso
+*.bin
+*.7z
+build/
+work/texout/
+work/report.txt
+__pycache__/
